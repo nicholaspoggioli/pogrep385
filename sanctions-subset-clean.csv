@@ -1,0 +1,953 @@
+id,year,sender,target,rt_censor,eco,multi,intensity,maingoals1,maingoals2,maingoals3,maingoals4,measures1,measures2,measures3,measures4,measures5,measures6,democ
+1,1999,UN,Afghanistan,0,1,2,4,TR,,,,FB, AE, FS, VB,,,no
+1,2000,UN,Afghanistan,0,1,2,4,TR,,,,FB, AE, FS, VB,,,no
+1,2001,UN,Afghanistan,0,1,2,4,TR,,,,FB, AE, FS, VB,,,no
+1,2002,UN,Afghanistan,0,1,2,4,TR,,,,FB, AE, FS, VB,,,no
+2,1992,EU,Algeria,0,1,0,3,DM, PC,,,AS,,,,,,yes
+2,1993,EU,Algeria,0,1,0,3,DM, PC,,,AS,,,,,,yes
+2,1994,EU,Algeria,0,1,0,3,DM, PC,,,AS,,,,,,yes
+3,1992,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1993,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1994,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1995,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1996,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1997,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1998,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,1999,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,2000,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,2001,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+3,2002,US,Azerbaijan,0,1,0,3,PC,,,,AS,,,,,,no
+4,1998,EU,Belarus,0,0,0,1,OT,,,,VB,,,,,,no
+4,1999,EU,Belarus,0,0,0,1,OT,,,,VB,,,,,,no
+5,2000,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2001,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2002,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2003,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2004,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2005,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2006,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2007,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2008,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2009,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+5,2010,EU,Belarus,1,1,1,2,DM,,,,VB, AF, DS, AE,,,yes
+6,2004,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2005,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2006,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2007,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2008,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2009,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+6,2010,US,Belarus,1,1,1,3,DM,,,,VB, AF, AS,,,,yes
+7,1992,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1993,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1994,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1995,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1996,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1997,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1998,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,1999,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2000,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2001,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2002,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2003,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2004,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2005,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+7,2006,EU,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+8,1992,UN,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+8,1993,UN,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+8,1994,UN,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+8,1995,UN,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+8,1996,UN,Bosnia and Herzegovina,0,1,2,2,PC,,,,AE,,,,,,no
+9,1996,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,1997,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,1998,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,1999,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2000,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2001,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2002,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2003,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2004,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+9,2005,US,Burundi,0,1,0,3,PC, DM,,,AS,,,,,,yes
+10,1992,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1993,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1994,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1995,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1996,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1997,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+10,1998,US,Cameroon,0,1,0,3,DM, HR,,,AS, AE,,,,,yes
+11,2003,EU,Central African Republic,0,1,1,3,DM, HR,,,AS,,,,,,yes
+11,2004,EU,Central African Republic,0,1,1,3,DM, HR,,,AS,,,,,,yes
+11,2005,EU,Central African Republic,0,1,1,3,DM, HR,,,AS,,,,,,yes
+12,2003,US,Central African Republic,0,0,1,2,PC, DM,,,IM,,,,,,yes
+12,2004,US,Central African Republic,0,0,1,2,PC, DM,,,IM,,,,,,yes
+12,2005,US,Central African Republic,0,0,1,2,PC, DM,,,IM,,,,,,yes
+13,1989,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1990,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1991,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1992,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1993,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1994,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1995,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1996,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1997,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1998,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,1999,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2000,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2001,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2002,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2003,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2004,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2005,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2006,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2007,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2008,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2009,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+13,2010,US,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1989,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1990,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1991,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1992,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1993,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1994,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1995,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1996,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1997,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1998,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,1999,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2000,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2001,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2002,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2003,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2004,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2005,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2006,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2007,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2008,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2009,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+14,2010,EU,China,1,1,1,2,DM, HR,,,AE,,,,,,yes
+15,1996,US,Colombia,0,1,0,4,NR,,,,FS, AS, AE, IM,,,no
+15,1997,US,Colombia,0,1,0,4,NR,,,,FS, AS, AE, IM,,,no
+15,1998,US,Colombia,0,1,0,4,NR,,,,FS, AS, AE, IM,,,no
+16,1999,EU,Comoros,0,1,0,3,DM,,,,AS,,,,,,yes
+16,2000,EU,Comoros,0,1,0,3,DM,,,,AS,,,,,,yes
+17,1999,US,Côte d'Ivoire,0,1,1,3,DM,,,,AE, AS,,,,,yes
+17,2000,US,Côte d'Ivoire,0,1,1,3,DM,,,,AE, AS,,,,,yes
+17,2001,US,Côte d'Ivoire,0,1,1,3,DM,,,,AE, AS,,,,,yes
+17,2002,US,Côte d'Ivoire,0,1,1,3,DM,,,,AE, AS,,,,,yes
+18,2000,EU,Côte d'Ivoire,0,1,1,3,DM, HR,,,AS,,,,,,yes
+18,2001,EU,Côte d'Ivoire,0,1,1,3,DM, HR,,,AS,,,,,,yes
+18,2002,EU,Côte d'Ivoire,0,1,1,3,DM, HR,,,AS,,,,,,yes
+19,2004,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2005,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2006,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2007,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2008,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2009,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+19,2010,UN,Côte d'Ivoire,1,1,2,4,PC, DM,,,AE, VB, AF, CE,,,yes
+20,1992,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1993,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1994,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1995,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1996,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1997,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1998,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,1999,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+20,2000,EU,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+21,1992,UN,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+21,1993,UN,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+21,1994,UN,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+21,1995,UN,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+21,1996,UN,Croatia,0,1,2,2,PC,,,,AE,,,,,,no
+22,1960,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1961,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1962,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1963,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1964,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1965,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1966,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1967,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1968,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1969,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1970,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1971,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1972,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1973,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1974,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1975,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1976,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1977,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1978,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1979,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1980,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1981,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1982,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1983,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1984,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1985,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1986,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1987,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1988,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1989,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1990,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1991,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1992,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1993,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1994,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1995,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1996,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1997,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1998,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,1999,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2000,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2001,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2002,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2003,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2004,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2005,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2006,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2007,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2008,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2009,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+22,2010,US,Cuba,1,1,0,5,DM,,,,CT,,,,,,yes
+23,2003,EU,Cuba,0,0,1,1,DM, HR,,,DS,,,,,,yes
+23,2004,EU,Cuba,0,0,1,1,DM, HR,,,DS,,,,,,yes
+23,2005,EU,Cuba,0,0,1,1,DM, HR,,,DS,,,,,,yes
+24,1990,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1991,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1992,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1993,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1994,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1995,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1996,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+24,1997,US,DRC,0,1,1,3,DM,,,,IM, AS, VB, AE,,,yes
+25,1992,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+25,1993,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+25,1994,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+25,1995,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+25,1996,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+25,1997,EU,DRC,0,1,1,3,PC, DM,,,AE, AS, VB,,,,yes
+26,1997,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,1998,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,1999,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2000,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2001,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2002,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2003,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2004,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2005,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2006,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2007,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+26,2008,EU,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2003,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2004,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2005,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2006,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2007,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+27,2008,UN,DRC,0,1,2,2,PC,,,,AE,,,,,,no
+28,1992,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1993,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1994,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1995,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1996,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1997,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1998,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,1999,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2000,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2001,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2002,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2003,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2004,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2005,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2006,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2007,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2008,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2009,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+28,2010,EU,Equatorial Guinea,1,1,0,3,DM, HR,,,AS,,,,,,yes
+29,2000,UN,Eritrea,0,1,2,2,PC,,,,AE,,,,,,no
+29,2001,UN,Eritrea,0,1,2,2,PC,,,,AE,,,,,,no
+30,2006,US,Eritrea,1,1,0,2,HR,,,,AE,,,,,,no
+30,2007,US,Eritrea,1,1,0,2,HR,,,,AE,,,,,,no
+30,2008,US,Eritrea,1,1,0,2,HR,,,,AE,,,,,,no
+30,2009,US,Eritrea,1,1,0,2,HR,,,,AE,,,,,,no
+30,2010,US,Eritrea,1,1,0,2,HR,,,,AE,,,,,,no
+31,2009,UN,Eritrea,1,1,2,2,ES,,,,AE,,,,,,no
+31,2010,UN,Eritrea,1,1,2,2,ES,,,,AE,,,,,,no
+32,2000,UN,Ethiopia,0,1,2,2,PC,,,,AE,,,,,,no
+32,2001,UN,Ethiopia,0,1,2,2,PC,,,,AE,,,,,,no
+33,2001,EU,Fiji,0,1,0,3,DM,,,,AS,,,,,,yes
+33,2002,EU,Fiji,0,1,0,3,DM,,,,AS,,,,,,yes
+33,2003,EU,Fiji,0,1,0,3,DM,,,,AS,,,,,,yes
+34,2006,EU,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+34,2007,EU,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+34,2008,EU,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+34,2009,EU,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+34,2010,EU,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+35,2006,US,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+35,2007,US,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+35,2008,US,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+35,2009,US,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+35,2010,US,Fiji,1,1,1,3,DM,,,,AS,,,,,,yes
+36,1991,US,Federal Republic of Yugoslavia,0,1,2,4,PC, DM,,,AE, AS, FS, DS, FB,,yes
+36,1992,US,Federal Republic of Yugoslavia,0,1,2,4,PC, DM,,,AE, AS, FS, DS, FB,,yes
+36,1993,US,Federal Republic of Yugoslavia,0,1,2,4,PC, DM,,,AE, AS, FS, DS, FB,,yes
+36,1994,US,Federal Republic of Yugoslavia,0,1,2,4,PC, DM,,,AE, AS, FS, DS, FB,,yes
+36,1995,US,Federal Republic of Yugoslavia,0,1,2,4,PC, DM,,,AE, AS, FS, DS, FB,,yes
+37,1991,UN,Federal Republic of Yugoslavia,0,1,2,5,PC,,,,CT, FB,,,,,no
+37,1992,UN,Federal Republic of Yugoslavia,0,1,2,5,PC,,,,CT, FB,,,,,no
+37,1993,UN,Federal Republic of Yugoslavia,0,1,2,5,PC,,,,CT, FB,,,,,no
+37,1994,UN,Federal Republic of Yugoslavia,0,1,2,5,PC,,,,CT, FB,,,,,no
+37,1995,UN,Federal Republic of Yugoslavia,0,1,2,5,PC,,,,CT, FB,,,,,no
+38,1991,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1992,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1993,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1994,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1995,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1996,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+38,1997,EU,Federal Republic of Yugoslavia,0,1,2,3,PC,,,,AE, AS,,,,,no
+39,1995,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, DS, FB,,,,no
+39,1996,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, DS, FB,,,,no
+39,1997,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, DS, FB,,,,no
+39,1998,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, DS, FB,,,,no
+39,1999,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, DS, FB,,,,no
+40,1998,EU,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,AE, FS, CE, VB, FB, AF,no
+40,1999,EU,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,AE, FS, CE, VB, FB, AF,no
+40,2000,EU,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,AE, FS, CE, VB, FB, AF,no
+40,2001,EU,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,AE, FS, CE, VB, FB, AF,no
+41,1998,UN,Federal Republic of Yugoslavia,0,1,2,2,PC,,,,AE,,,,,,no
+41,1999,UN,Federal Republic of Yugoslavia,0,1,2,2,PC,,,,AE,,,,,,no
+41,2000,UN,Federal Republic of Yugoslavia,0,1,2,2,PC,,,,AE,,,,,,no
+41,2001,UN,Federal Republic of Yugoslavia,0,1,2,2,PC,,,,AE,,,,,,no
+42,1998,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, VB, FB, AF,,,no
+42,1999,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, VB, FB, AF,,,no
+42,2000,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, VB, FB, AF,,,no
+42,2001,US,Federal Republic of Yugoslavia,0,1,2,4,PC,,,,FS, VB, FB, AF,,,no
+43,1999,US,Federal Republic of Yugoslavia,0,1,2,4,DM,,,,AS, FS, AE,,,,yes
+43,2000,US,Federal Republic of Yugoslavia,0,1,2,4,DM,,,,AS, FS, AE,,,,yes
+43,2001,US,Federal Republic of Yugoslavia,0,1,2,4,DM,,,,AS, FS, AE,,,,yes
+43,2002,US,Federal Republic of Yugoslavia,0,1,2,4,DM,,,,AS, FS, AE,,,,yes
+43,2003,US,Federal Republic of Yugoslavia,0,1,2,4,DM,,,,AS, FS, AE,,,,yes
+44,1994,US,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+44,1995,US,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+44,1996,US,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+44,1997,US,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+44,1998,US,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1994,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1995,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1996,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1997,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1998,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,1999,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,2000,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,2001,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+45,2002,EU,Gambia,0,1,1,3,DM,,,,IM, AS,,,,,yes
+46,1993,EU,Guatemala,0,1,1,3,DM, HR,,,AS,,,,,,yes
+47,1993,US,Guatemala,0,1,1,3,DM,,,,AS,,,,,,yes
+48,2002,EU,Guinea,0,1,0,3,DM, HR,,,AS,,,,,,yes
+48,2003,EU,Guinea,0,1,0,3,DM, HR,,,AS,,,,,,yes
+48,2004,EU,Guinea,0,1,0,3,DM, HR,,,AS,,,,,,yes
+48,2005,EU,Guinea,0,1,0,3,DM, HR,,,AS,,,,,,yes
+48,2006,EU,Guinea,0,1,0,3,DM, HR,,,AS,,,,,,yes
+49,2009,EU,Guinea,1,1,1,2,DM,,,,VB, AE, AF,,,,yes
+49,2010,EU,Guinea,1,1,1,2,DM,,,,VB, AE, AF,,,,yes
+50,2009,US,Guinea,0,1,1,1,DM, HR,,,AF, VB,,,,,yes
+50,2010,US,Guinea,0,1,1,1,DM, HR,,,AF, VB,,,,,yes
+51,2003,US,Guinea-Bissau,0,1,0,3,DM,,,,AS,,,,,,yes
+51,2004,US,Guinea-Bissau,0,1,0,3,DM,,,,AS,,,,,,yes
+52,1991,US,Haiti,0,1,0,5,DM,,,,CT, FS, AS,,,,yes
+52,1992,US,Haiti,0,1,0,5,DM,,,,CT, FS, AS,,,,yes
+52,1993,US,Haiti,0,1,0,5,DM,,,,CT, FS, AS,,,,yes
+52,1994,US,Haiti,0,1,0,5,DM,,,,CT, FS, AS,,,,yes
+53,1991,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1992,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1993,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1994,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1995,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1996,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1997,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1998,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,1999,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2000,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2001,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2002,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2003,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2004,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2005,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+53,2006,US,Haiti,0,1,0,2,HR,,,,AE,,,,,,no
+54,1993,UN,Haiti,0,1,2,5,DM,,,,CE, AE, FS, CT,,,yes
+54,1994,UN,Haiti,0,1,2,5,DM,,,,CE, AE, FS, CT,,,yes
+55,2001,EU,Haiti,0,1,1,3,DM,,,,AS,,,,,,yes
+55,2002,EU,Haiti,0,1,1,3,DM,,,,AS,,,,,,yes
+55,2003,EU,Haiti,0,1,1,3,DM,,,,AS,,,,,,yes
+55,2004,EU,Haiti,0,1,1,3,DM,,,,AS,,,,,,yes
+55,2005,EU,Haiti,0,1,1,3,DM,,,,AS,,,,,,yes
+56,2002,US,Haiti,0,1,1,4,DM,,,,FS,,,,,,yes
+56,2003,US,Haiti,0,1,1,4,DM,,,,FS,,,,,,yes
+56,2004,US,Haiti,0,1,1,4,DM,,,,FS,,,,,,yes
+56,2005,US,Haiti,0,1,1,4,DM,,,,FS,,,,,,yes
+57,2009,EU,Honduras,0,1,1,3,DM,,,,AS, DS,,,,,yes
+57,2010,EU,Honduras,0,1,1,3,DM,,,,AS, DS,,,,,yes
+58,2009,US,Honduras,0,1,1,3,DM,,,,AS,,,,,,yes
+58,2010,US,Honduras,0,1,1,3,DM,,,,AS,,,,,,yes
+59,1992,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1993,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1994,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1995,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1996,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1997,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1998,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,1999,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2000,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2001,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2002,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2003,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2004,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+59,2005,US,Indonesia,0,1,1,4,PC, HR,,,IM, AS, FS,,,,no
+60,1998,EU,Indonesia,0,1,1,2,PC, HR,,,AE,,,,,,no
+60,1999,EU,Indonesia,0,1,1,2,PC, HR,,,AE,,,,,,no
+61,1984,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1985,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1986,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1987,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1988,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1989,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1990,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1991,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1992,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1993,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1994,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1995,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1996,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1997,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1998,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,1999,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2000,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2001,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2002,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2003,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2004,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2005,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2006,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2007,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2008,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2009,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+61,2010,US,Iran,1,1,0,5,TR, HR, NW, MD,CT, FS, AE,,,,no
+62,2006,UN,Iran,1,1,2,4,NW,,,,FS, AE, VB, CE,,,no
+62,2007,UN,Iran,1,1,2,4,NW,,,,FS, AE, VB, CE,,,no
+62,2008,UN,Iran,1,1,2,4,NW,,,,FS, AE, VB, CE,,,no
+62,2009,UN,Iran,1,1,2,4,NW,,,,FS, AE, VB, CE,,,no
+62,2010,UN,Iran,1,1,2,4,NW,,,,FS, AE, VB, CE,,,no
+63,1982,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1983,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1984,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1985,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1986,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1987,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1988,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1989,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1990,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1991,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1992,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1993,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1994,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1995,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1996,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1997,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1998,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,1999,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,2000,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,2001,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,2002,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+63,2003,US,Iraq,0,1,0,2,TR, MD,,,AE,,,,,,no
+64,1990,UN,Iraq,0,1,2,5,PC,,,,CT,,,,,,no
+64,1991,UN,Iraq,0,1,2,5,PC,,,,CT,,,,,,no
+65,1991,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1992,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1993,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1994,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1995,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1996,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1997,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1998,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,1999,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,2000,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,2001,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,2002,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+65,2003,UN,Iraq,0,1,2,5,NW, PC, HR, MD,CT,,,,,,no
+66,1990,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1991,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1992,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1993,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1994,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1995,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1996,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+66,1997,US,Jordan,0,1,0,3,ES, PC,,,AS,,,,,,no
+67,1990,US,Kenya,0,1,0,3,DM, HR,,,IM, AS,,,,,yes
+67,1991,US,Kenya,0,1,0,3,DM, HR,,,IM, AS,,,,,yes
+67,1992,US,Kenya,0,1,0,3,DM, HR,,,IM, AS,,,,,yes
+67,1993,US,Kenya,0,1,0,3,DM, HR,,,IM, AS,,,,,yes
+68,1992,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1993,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1994,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1995,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1996,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1997,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1998,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,1999,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,2000,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+68,2001,UN,Liberia,0,0,2,2,PC,,,,AE,,,,,,no
+69,2001,EU,Liberia,0,1,2,3,PC, ES,,,AS,,,,,,no
+70,2001,UN,Liberia,0,1,2,4,PC, ES,,,AE, CE, VB,,,,no
+70,2002,UN,Liberia,0,1,2,4,PC, ES,,,AE, CE, VB,,,,no
+70,2003,UN,Liberia,0,1,2,4,PC, ES,,,AE, CE, VB,,,,no
+71,1978,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1979,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1980,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1981,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1982,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1983,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1984,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1985,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1986,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1987,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1988,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1989,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1990,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1991,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1992,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1993,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1994,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1995,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1996,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1997,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1998,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,1999,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,2000,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,2001,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,2002,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,2003,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+71,2004,US,Libya,0,1,0,4,TR, MD, NW,,CE, AE, DS,,,,no
+72,1986,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1987,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1988,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1989,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1990,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1991,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1992,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1993,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1994,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1995,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1996,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1997,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1998,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,1999,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,2000,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,2001,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,2002,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,2003,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+72,2004,EU,Libya,0,1,1,2,TR,,,,AE, DS, VB,,,,no
+73,1992,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1993,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1994,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1995,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1996,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1997,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1998,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,1999,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,2000,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,2001,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,2002,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+73,2003,UN,Libya,0,1,2,4,TR,,,,FB, CE, AE,,,,no
+74,2009,EU,Madagascar,0,1,1,3,DM,,,,AS,,,,,,yes
+74,2010,EU,Madagascar,0,1,1,3,DM,,,,AS,,,,,,yes
+74,2011,EU,Madagascar,0,1,1,3,DM,,,,AS,,,,,,yes
+75,2010,US,Madagascar,1,1,1,3,DM,,,,AS,,,,,,yes
+76,1991,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1992,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1993,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1994,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1995,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1996,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1997,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1998,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,1999,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+76,2000,EU,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1991,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1992,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1993,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1994,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1995,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+77,1996,UN,Macedonia,0,1,2,2,PC,,,,AE,,,,,,no
+78,1992,EU,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+78,1993,EU,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+78,1994,EU,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+79,1992,US,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+79,1993,US,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+79,1994,US,Malawi,0,1,1,3,DM, HR,,,AS,,,,,,yes
+80,2008,US,Mauritania,0,1,1,3,DM,,,,VB, AS,,,,,yes
+80,2009,US,Mauritania,0,1,1,3,DM,,,,VB, AS,,,,,yes
+81,2008,EU,Mauritania,0,1,1,3,DM,,,,AS,,,,,,yes
+81,2009,EU,Mauritania,0,1,1,3,DM,,,,AS,,,,,,yes
+82,1988,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1989,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1990,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1991,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1992,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1993,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1994,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1995,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1996,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1997,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1998,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,1999,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2000,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2001,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2002,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2003,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2004,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2005,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2006,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2007,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2008,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2009,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+82,2010,US,Myanmar,1,1,0,4,DM, HR,,,CE, AE, FS,,,,yes
+83,1996,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,1997,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,1998,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,1999,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2000,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2001,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2002,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2003,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2004,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2005,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2006,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2007,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2008,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2009,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+83,2010,EU,Myanmar,1,1,1,4,DM, HR,,,AE, VB, FS, AS, AF,,yes
+84,1992,US,Nicaragua,0,1,0,3,PC, TR, DM,,AS,,,,,,yes
+84,1993,US,Nicaragua,0,1,0,3,PC, TR, DM,,AS,,,,,,yes
+84,1994,US,Nicaragua,0,1,0,3,PC, TR, DM,,AS,,,,,,yes
+84,1995,US,Nicaragua,0,1,0,3,PC, TR, DM,,AS,,,,,,yes
+85,1996,EU,Niger,0,1,1,3,DM,,,,AS,,,,,,yes
+85,1997,EU,Niger,0,1,1,3,DM,,,,AS,,,,,,yes
+85,1998,EU,Niger,0,1,1,3,DM,,,,AS,,,,,,yes
+85,1999,EU,Niger,0,1,1,3,DM,,,,AS,,,,,,yes
+86,1996,US,Niger,0,1,1,4,DM,,,,AS, IM, FS,,,,yes
+86,1997,US,Niger,0,1,1,4,DM,,,,AS, IM, FS,,,,yes
+86,1998,US,Niger,0,1,1,4,DM,,,,AS, IM, FS,,,,yes
+86,1999,US,Niger,0,1,1,4,DM,,,,AS, IM, FS,,,,yes
+86,2000,US,Niger,0,1,1,4,DM,,,,AS, IM, FS,,,,yes
+87,2009,US,Niger,0,1,0,3,DM,,,,VB, AS,,,,,yes
+87,2010,US,Niger,0,1,0,3,DM,,,,VB, AS,,,,,yes
+87,2011,US,Niger,0,1,0,3,DM,,,,VB, AS,,,,,yes
+88,1993,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+88,1994,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+88,1995,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+88,1996,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+88,1997,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+88,1998,US,Nigeria,0,1,1,4,DM,,,,IM, AS, DS, FB, VB,,yes
+89,1993,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1994,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1995,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1996,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1997,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1998,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+89,1999,EU,Nigeria,0,1,1,3,DM, HR,,,AS, AE, DS, VB,,,yes
+90,1950,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1951,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1952,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1953,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1954,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1955,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1956,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1957,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1958,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1959,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1960,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1961,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1962,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1963,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1964,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1965,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1966,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1967,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1968,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1969,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1970,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1971,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1972,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1973,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1974,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1975,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1976,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1977,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1978,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1979,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1980,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1981,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1982,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1983,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1984,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1985,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1986,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1987,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1988,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1989,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1990,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1991,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1992,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1993,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1994,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1995,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1996,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1997,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1998,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,1999,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2000,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2001,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2002,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2003,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2004,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2005,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2006,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2007,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2008,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2009,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+90,2010,US,North Korea,1,1,0,5,DM,,,,CT,,,,,,yes
+91,1993,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1994,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1995,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1996,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1997,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1998,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,1999,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2000,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2001,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2002,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2003,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2004,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2005,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2006,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2007,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2008,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2009,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+91,2010,US,North Korea,1,1,0,3,NW,,,,AS,,,,,,no
+92,2006,UN,North Korea,1,1,2,4,NW,,,,FS, VB, AE, CE,,,no
+92,2007,UN,North Korea,1,1,2,4,NW,,,,FS, VB, AE, CE,,,no
+92,2008,UN,North Korea,1,1,2,4,NW,,,,FS, VB, AE, CE,,,no
+92,2009,UN,North Korea,1,1,2,4,NW,,,,FS, VB, AE, CE,,,no
+92,2010,UN,North Korea,1,1,2,4,NW,,,,FS, VB, AE, CE,,,no
+93,1999,US,Pakistan,0,1,0,3,DM,,,,AS,,,,,,yes
+93,2000,US,Pakistan,0,1,0,3,DM,,,,AS,,,,,,yes
+93,2001,US,Pakistan,0,1,0,3,DM,,,,AS,,,,,,yes
+94,1991,US,Peru,0,1,0,3,DM, HR,,,AS, IM,,,,,yes
+94,1992,US,Peru,0,1,0,3,DM, HR,,,AS, IM,,,,,yes
+94,1993,US,Peru,0,1,0,3,DM, HR,,,AS, IM,,,,,yes
+94,1994,US,Peru,0,1,0,3,DM, HR,,,AS, IM,,,,,yes
+94,1995,US,Peru,0,1,0,3,DM, HR,,,AS, IM,,,,,yes
+95,1995,US,Peru,0,0,0,2,PC,,,,IM,,,,,,no
+95,1996,US,Peru,0,0,0,2,PC,,,,IM,,,,,,no
+95,1997,US,Peru,0,0,0,2,PC,,,,IM,,,,,,no
+95,1998,US,Peru,0,0,0,2,PC,,,,IM,,,,,,no
+96,2000,EU,Peru,0,1,0,3,DM,,,,AS,,,,,,yes
+96,2001,EU,Peru,0,1,0,3,DM,,,,AS,,,,,,yes
+97,1991,US,Russia,0,1,1,4,DM,,,,AS, FS,,,,,yes
+98,1991,EU,Russia,0,1,1,3,DM,,,,AS,,,,,,yes
+99,1994,EU,Rwanda,0,1,2,3,HR,,,,AS,,,,,,no
+99,1995,EU,Rwanda,0,1,2,3,HR,,,,AS,,,,,,no
+100,1994,UN,Rwanda,0,1,2,2,PC,,,,AE,,,,,,no
+100,1995,UN,Rwanda,0,1,2,2,PC,,,,AE,,,,,,no
+101,1989,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1990,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1991,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1992,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1993,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1994,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1995,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1996,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1997,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1998,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,1999,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2000,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2001,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2002,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2003,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2004,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2005,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2006,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2007,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2008,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2009,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+101,2010,US,Somalia,1,1,0,3,PC, TR,,,AS, IM,,,,,no
+102,2008,US,Sri Lanka,1,1,0,2,TR,,,,AE,,,,,,no
+102,2009,US,Sri Lanka,1,1,0,2,TR,,,,AE,,,,,,no
+102,2010,US,Sri Lanka,1,1,0,2,TR,,,,AE,,,,,,no
+103,1993,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1994,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1995,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1996,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1997,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1998,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,1999,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2000,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2001,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2002,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2003,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2004,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2005,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2006,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2007,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2008,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2009,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+103,2010,US,Sudan,1,1,2,4,TR,,,,AS, DS, FS, CE,,,no
+104,1994,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,1995,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,1996,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,1997,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,1998,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,1999,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2000,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2001,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2002,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2003,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2004,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2005,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2006,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2007,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2008,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2009,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+104,2010,EU,Sudan,1,1,2,3,PC,,,,AE, AS,,,,,no
+105,1996,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,1997,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,1998,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,1999,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2000,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2001,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2002,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2003,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2004,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2005,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2006,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2007,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2008,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2009,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+105,2010,UN,Sudan,1,1,2,2,TR,,,,VB, DS, AE,,,,no
+106,2005,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+106,2006,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+106,2007,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+106,2008,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+106,2009,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+106,2010,UN,Sudan,1,1,2,2,PC,,,,AE,,,,,,no
+107,1986,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1987,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1988,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1989,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1990,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1991,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1992,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1993,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1994,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1995,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1996,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1997,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1998,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,1999,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,2000,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,2001,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,2002,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+107,2003,US,Syria,0,1,1,4,TR, MD,,,AE, CE, AS, DS,,,no
+108,1987,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1988,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1989,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1990,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1991,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1992,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1993,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+108,1994,EU,Syria,0,1,1,2,TR,,,,AE,,,,,,no
+109,2004,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2005,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2006,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2007,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2008,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2009,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+109,2010,US,Syria,1,1,0,2,TR, MD,,,AE, AF,,,,,no
+110,1991,US,Thailand,0,1,0,3,DM,,,,IM, AS,,,,,yes
+110,1992,US,Thailand,0,1,0,3,DM,,,,IM, AS,,,,,yes
+111,1992,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+111,1993,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+111,1994,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+111,1995,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,1998,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,1999,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,2000,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,2001,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,2002,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,2003,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+112,2004,EU,Togo,0,1,0,3,DM,,,,AS,,,,,,yes
+113,1995,EU,Turkey,0,1,0,3,DM, HR,,,AS,,,,,,yes
+114,2005,EU,Uzbekistan,0,1,1,2,HR,,,,VB, AE, DS,,,,no
+114,2006,EU,Uzbekistan,0,1,1,2,HR,,,,VB, AE, DS,,,,no
+114,2007,EU,Uzbekistan,0,1,1,2,HR,,,,VB, AE, DS,,,,no
+114,2008,EU,Uzbekistan,0,1,1,2,HR,,,,VB, AE, DS,,,,no
+114,2009,EU,Uzbekistan,0,1,1,2,HR,,,,VB, AE, DS,,,,no
+115,2005,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+115,2006,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+115,2007,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+115,2008,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+115,2009,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+115,2010,US,Uzbekistan,1,0,1,2,DM, HR,,,IM,,,,,,yes
+116,2006,US,Venezuela,1,1,0,3,ES,,,,AE,,,,,,no
+116,2007,US,Venezuela,1,1,0,3,ES,,,,AE,,,,,,no
+116,2008,US,Venezuela,1,1,0,3,ES,,,,AE,,,,,,no
+116,2009,US,Venezuela,1,1,0,3,ES,,,,AE,,,,,,no
+116,2010,US,Venezuela,1,1,0,3,ES,,,,AE,,,,,,no
+117,1975,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1976,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1977,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1978,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1979,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1980,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1981,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1982,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1983,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1984,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1985,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1986,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1987,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1988,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1989,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1990,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1991,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1992,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1993,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+117,1994,US,Vietnam,0,1,0,5,PC, HR,,,CT, AE,,,,,no
+118,1990,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1991,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1992,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1993,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1994,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1995,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1996,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+118,1997,US,Yemen,0,1,0,3,ES,,,,AS, AE,,,,,no
+119,1996,EU,Zambia,0,1,0,3,DM, HR,,,AS,,,,,,yes
+119,1997,EU,Zambia,0,1,0,3,DM, HR,,,AS,,,,,,yes
+119,1998,EU,Zambia,0,1,0,3,DM, HR,,,AS,,,,,,yes
+119,1999,EU,Zambia,0,1,0,3,DM, HR,,,AS,,,,,,yes
+120,2002,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2003,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2004,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2005,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2006,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2007,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2008,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2009,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+120,2010,EU,Zimbabwe,1,1,1,3,DM, HR,,,VB, AF, AE, AS,,,yes
+121,2002,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2003,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2004,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2005,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2006,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2007,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2008,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2009,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
+121,2010,US,Zimbabwe,1,1,1,4,DM,,,,VB, FS,,,,,yes
